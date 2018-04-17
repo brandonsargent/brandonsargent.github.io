@@ -1,9 +1,4 @@
 
-$('#brandon-txt').load("text/brandon.txt");
-$('#jake-txt').load("text/jake.txt");
-$('#sam-txt').load("text/sam.txt");
-$('#chelsea-txt').load("text/chelsea.txt");
-
 
 var app = angular.module('website', ['ngRoute']);
 app.config(['$routeProvider', function($routeProvider) {
