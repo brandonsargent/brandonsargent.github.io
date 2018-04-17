@@ -19,6 +19,7 @@ body {
 }
 
 .text {
+  width: 100%;
 }
 
 .name {
@@ -31,6 +32,7 @@ img {
 
 .person {
   display: block;
+  width: 100%;
 }
 
 .bio {
