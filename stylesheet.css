@@ -31,7 +31,11 @@ a {
 
 
 .name {
-  width: 100%;
+  display: block;
+  font-size: 100px;
+  top: 0px;
+  left: 0px;
+  z-index: 50;
 }
 
 img {
@@ -39,12 +43,12 @@ img {
 }
 
 .person {
-  display: block;
+  top: 0px;
+  z-index: 0;
   width: 100%;
 }
 
 .bio {
   display: block;
-  float: right;
 }
 
