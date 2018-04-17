@@ -17,3 +17,8 @@ app.config(['$routeProvider', function($routeProvider) {
 
 app.controller('main-controller', ['$scope', function($scope){
 }]);
+
+$('#brandon-txt').load("text/brandon.txt");
+$('#jake-txt').load("text/jake.txt");
+$('#sam-txt').load("text/sam.txt");
+$('#chelsea-txt').load("text/chelsea.txt");
