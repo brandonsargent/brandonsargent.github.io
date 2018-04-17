@@ -11,6 +11,10 @@
 .text {
 }
 
+img {
+  width: 100%;
+}
+
 .person {
   display: block;
 }
