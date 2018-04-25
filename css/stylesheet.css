@@ -1,11 +1,4 @@
 
-h1 {
-  margin: 0;
-}
-
-h2 {
-  margin: 0;
-}
 
 body {
   background-color: #99cccc;
@@ -36,6 +29,7 @@ a {
 
 .main {
   display: block;
+  margin: auto;
 }
 
 
@@ -85,3 +79,10 @@ img {
 }
 
 
+h1 {
+  margin: 0;
+}
+
+h2 {
+  margin: 0;
+}
