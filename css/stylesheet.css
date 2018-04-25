@@ -27,6 +27,7 @@ a {
 .episode {
   display: block;
   margin: auto;
+  text-align: center;
   width: 100%;
 }
 
