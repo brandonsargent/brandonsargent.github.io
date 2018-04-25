@@ -62,15 +62,16 @@ img {
   z-index: 25;
   color: #fff;
   text-shadow: 1px 0 0;
-  bottom: 0px;
-  left: 0px;
-  width: 200px;
+  bottom: 20px;
+  left: 20px;
+  width: 400px;
 }
 
 .about {
   display: block;
   color: #fff;
   width: 100%;
+  top: 50px;
   margin: auto;
 }
 
