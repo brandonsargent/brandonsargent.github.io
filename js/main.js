@@ -1,7 +1,7 @@
 var teaser = false;
 
 $("document").ready(function(){
-  if (teaser)
+  if (teaser == true)
   {
     // open teaser website 
     window.open("templates/teaser.html", "_self");
