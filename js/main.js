@@ -1,4 +1,4 @@
-var teaser = true;
+var teaser = false;
 
 $("document").ready(function(){
   if (teaser)
