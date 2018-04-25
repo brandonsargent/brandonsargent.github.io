@@ -1,0 +1,99 @@
+
+
+body {
+  background-color: #99cccc;
+  font-family: sans-serif;
+  color: white;
+}
+
+#menubar {
+  display: block;
+  background-color: black;
+  width: 100%;
+  top: 50%;
+  bottom: 50%; 
+  margin: auto;
+}
+
+a {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  font-size: 50px;
+  width: 24.5%;
+  margin: auto;
+  text-align: center;
+}
+
+#title {
+  width: 100%;
+}
+
+.episode {
+  display: block;
+  margin: auto;
+  text-align: center;
+  width: 100%;
+}
+
+.main {
+  display: block;
+  margin: auto;
+}
+
+
+.name {
+  position: absolute;
+  font-size: 90px;
+  top: 0px;
+  left: 0px;
+  z-index: 50;
+}
+
+img {
+  width: 100%;
+}
+
+.castpic {
+  position: absolute;
+  z-index: 0;
+  top: 0px;
+  width: 100%; 
+}
+
+.text {
+  display: block;
+  position: absolute;
+  z-index: 25;
+  color: #fff;
+  text-shadow: 1px 0 0;
+  bottom: 20px;
+  left: 20px;
+  width: 400px;
+}
+
+.about {
+  display: block;
+  color: #fff;
+  width: 100%;
+  font-size: 50px;
+  top: 50px;
+  margin: auto;
+}
+
+.person {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  height: 625px;
+  overflow: hidden;
+}
+
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  margin: 0;
+}
