@@ -52,12 +52,13 @@ img {
   width: 100%; 
 }
 
+.text {
+  display: block;
+}
+
 .person {
   display: block;
   width: 100%;
 }
 
-.bio {
-  display: block;
-}
 
