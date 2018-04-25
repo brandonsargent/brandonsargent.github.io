@@ -34,6 +34,7 @@ a {
 
 
 .name {
+  position: absolute;
   font-size: 100px;
   top: 0px;
   left: 0px;
@@ -45,6 +46,7 @@ img {
 }
 
 .castpic {
+  position: absolute;
   z-index: 0;
   top: 0px;
   width: 100%; 
@@ -56,6 +58,7 @@ img {
 
 .person {
   display: block;
+  position: relative; 
   width: 100%;
 }
 
