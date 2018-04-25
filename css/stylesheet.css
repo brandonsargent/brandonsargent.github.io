@@ -35,7 +35,6 @@ a {
 
 .name {
   font-size: 100px;
-  position: relative;
   top: 0px;
   left: 0px;
   z-index: 50;
@@ -47,7 +46,6 @@ img {
 
 .castpic {
   z-index: 0;
-  position: relative;
   top: 0px;
   width: 100%; 
 }
