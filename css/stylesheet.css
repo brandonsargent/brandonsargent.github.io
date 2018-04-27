@@ -50,6 +50,14 @@ a {
   z-index: 50;
 }
 
+.name2 {
+  position: absolute;
+  font-size: 75px;
+  top: 100px;
+  left: 0px;
+  z-index: 60;
+}
+
 img {
   width: 100%;
 }
