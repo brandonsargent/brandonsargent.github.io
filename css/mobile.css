@@ -82,11 +82,11 @@ img {
 
 .about {
   display: block;
-  color: #fff;
+  color: #999999;
   width: 100%;
-  font-size: 50px;
-  top: 50px;
   margin: auto;
+  font-size: 60px;
+  padding: 50px;
 }
 
 .person {
