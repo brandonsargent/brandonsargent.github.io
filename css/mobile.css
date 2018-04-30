@@ -15,7 +15,7 @@ body {
   margin: auto;
 }
 
-a {
+.link {
   display: inline-block;
   color: white;
   text-decoration: none;
