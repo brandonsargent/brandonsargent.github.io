@@ -55,7 +55,7 @@ body {
   font-size: 70px;
   top: 90px;
   left: 0px;
-  color: #99cccc;
+  color: #999999;
   z-index: 60;
 }
 
@@ -73,21 +73,25 @@ img {
 .text {
   display: block;
   position: absolute;
-  font-size: 30px;
+  font-size: 27px;
   z-index: 25;
   bottom: 20px;
   left: 20px;
-  width: 500px;
+  width: 560px;
+}
+
+#chelsea {
+  right: 20px;
+  text-align: right;
 }
 
 .about {
   display: block;
   background-color: #999999;
   color: white;
-  width: 100%;
   margin: auto;
-  font-size: 55px;
-  padding: 20px;
+  font-size: 40px;
+  padding: 30px;
 }
 
 .person {
