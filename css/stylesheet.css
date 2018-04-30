@@ -44,7 +44,7 @@ body {
 
 .name {
   position: absolute;
-  font-size: 100px;
+  font-size: 90px;
   top: 0px;
   left: 0px;
   z-index: 50;
@@ -73,16 +73,15 @@ img {
   display: block;
   position: absolute;
   z-index: 25;
-  color: #fff;
-  text-shadow: 1px 0 0;
   bottom: 20px;
   left: 20px;
-  width: 400px;
+  font-size: 50px;
+  width: 500px;
 }
 
 .about {
   display: block;
-  color: #99999;
+  background-color: #99999;
   width: 100%;
   font-size: 30px;
   margin: auto;
