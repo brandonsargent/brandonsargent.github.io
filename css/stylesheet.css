@@ -102,6 +102,11 @@ img {
   color: white;
   font-size: 30px;
   margin: auto;
+  left: 20px;
+  right: 20px;
+  border-color: #999999;
+  border-style: solid;
+  border-width: 3px;
   padding: 50px;
 }
 
